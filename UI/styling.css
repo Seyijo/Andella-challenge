@@ -4,7 +4,8 @@ body{
     margin:0px;
 }
 #header{
-    border: 1px groove black;
+    border: 2px double black;
+    background-color:lightseagreen;
     text-align: center;
     font-size: 4em;
     vertical-align:center;
