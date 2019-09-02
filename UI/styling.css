@@ -39,6 +39,14 @@ body{
     box-shadow: 5px 5px#121212;
 }
 #login p{
-    text-align: center;
-    color: darkorchid;
+    text-align:center;
+    color: #121212;
+}
+
+    
+#login span{
+    text-align: justify;
+    margin-right: 10px;
+    display: inline-block;
+    width:40%;
 }
